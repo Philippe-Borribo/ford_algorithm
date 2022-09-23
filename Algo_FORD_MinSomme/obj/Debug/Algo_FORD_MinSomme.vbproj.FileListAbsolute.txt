@@ -1,0 +1,18 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\Algo_FORD_MinSomme\bin\Debug\Algo_FORD_MinSomme.exe.config
+C:\Users\DELL\AppData\Local\Temporary Projects\Algo_FORD_MinSomme\bin\Debug\Algo_FORD_MinSomme.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Algo_FORD_MinSomme\bin\Debug\Algo_FORD_MinSomme.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\Algo_FORD_MinSomme\bin\Debug\Algo_FORD_MinSomme.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\Algo_FORD_MinSomme\obj\Debug\Algo_FORD_MinSomme.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Algo_FORD_MinSomme\obj\Debug\Algo_FORD_MinSomme.vbproj.GenerateResource.Cache
+C:\Users\DELL\AppData\Local\Temporary Projects\Algo_FORD_MinSomme\obj\Debug\Algo_FORD_MinSomme.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Algo_FORD_MinSomme\obj\Debug\Algo_FORD_MinSomme.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\Algo_FORD_MinSomme\obj\Debug\Algo_FORD_MinSomme.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Algo_FORD_MinSomme\Algo_FORD_MinSomme\bin\Debug\Algo_FORD_MinSomme.exe.config
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Algo_FORD_MinSomme\Algo_FORD_MinSomme\obj\Debug\Algo_FORD_MinSomme.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Algo_FORD_MinSomme\Algo_FORD_MinSomme\obj\Debug\Algo_FORD_MinSomme.xml
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Algo_FORD_MinSomme\Algo_FORD_MinSomme\obj\Debug\Algo_FORD_MinSomme.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Algo_FORD_MinSomme\Algo_FORD_MinSomme\bin\Debug\Algo_FORD_MinSomme.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Algo_FORD_MinSomme\Algo_FORD_MinSomme\bin\Debug\Algo_FORD_MinSomme.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Algo_FORD_MinSomme\Algo_FORD_MinSomme\bin\Debug\Algo_FORD_MinSomme.xml
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Algo_FORD_MinSomme\Algo_FORD_MinSomme\obj\Debug\Algo_FORD_MinSomme.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Algo_FORD_MinSomme\Algo_FORD_MinSomme\obj\Debug\Algo_FORD_MinSomme.vbproj.GenerateResource.Cache
